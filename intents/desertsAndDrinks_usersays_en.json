@@ -1,0 +1,69 @@
+[
+  {
+    "id": "2353546b-9cde-4b6c-88c0-b9ff291df777",
+    "data": [
+      {
+        "text": "both",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f028ab2-aac9-482e-a9cf-b8caedba5373",
+    "data": [
+      {
+        "text": "drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4823a1fe-338c-48ef-a331-0ed2f8530d80",
+    "data": [
+      {
+        "text": "deserts and drink",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47c1a786-a449-4420-a619-ece80e4e8923",
+    "data": [
+      {
+        "text": "deserts",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cec12353-35fe-4872-8b39-9b889514e924",
+    "data": [
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

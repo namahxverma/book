@@ -1,0 +1,55 @@
+[
+  {
+    "id": "4670794b-b4e7-432b-96ef-d867ae2bc90c",
+    "data": [
+      {
+        "text": "salami",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bafd60d5-012d-42d1-90af-63404e1af665",
+    "data": [
+      {
+        "text": "chicken fries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b51ada2-355a-4d13-8203-768ad2a68f8a",
+    "data": [
+      {
+        "text": "paneer tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65e1da6a-3c11-4c92-9e74-0a6b865ff3f7",
+    "data": [
+      {
+        "text": "samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
